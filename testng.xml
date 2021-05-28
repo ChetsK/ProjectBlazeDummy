@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="testng" group-by-instances="true">
+    <test name = 'FuntionalTest'>
+        <classes>
+            <class name="com.blaze.TestScripts.TS01_BookFlight"/>
+        </classes>
+    </test>
+</suite>

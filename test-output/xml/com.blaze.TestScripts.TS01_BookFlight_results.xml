@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FuntionalTest"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.340">
+  <properties />
+  
+  
+            <testcase name="BookFLight" time="3.340" classname="com.blaze.TestScripts.TS01_BookFlight" />
+      
+</testsuite>
